@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LetsGo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LetsGo_jar</output-path>
+    <root id="archive" name="LetsGo.jar">
+      <element id="module-output" name="LetsGo" />
+    </root>
+  </artifact>
+</component>
